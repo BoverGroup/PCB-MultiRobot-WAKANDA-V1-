@@ -28,7 +28,7 @@ Actualmente es utilizado en nuestro robot Sumo que compite en la LIGA NACIONAL D
 ![image](https://github.com/BoverGroup/PCB-MultiRobot-WAKANDA-V1-/assets/144978109/eba73c04-7e44-448d-b974-02a878d2ca09)
 
 # Disponibilidad
-Wakanda V1 se encuentra a la venta por tan solo $55USD (Incluye Programador, stepdown, PCB completo y un manual de Uso)
+Wakanda V1 se encuentra a la venta por tan solo *$50USD* (Incluye Programador, stepdown, PCB completo y un manual de Uso)
 
 ## Agradecimientos 🙌
 
