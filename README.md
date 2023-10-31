@@ -29,3 +29,7 @@ Actualmente es utilizado en nuestro robot Sumo que compite en la LIGA NACIONAL D
 
 # Disponibilidad
 Wakanda V1 se encuentra a la venta por tan solo $55USD (Incluye Programador, stepdown, PCB completo y un manual de Uso)
+
+## Agradecimientos 🙌
+
+Queremos expresar nuestro agradecimiento a todas las personas que nos han brindado apoyo y colaboración en este proyecto, especialmente a **<a href="https://www.pcbway.com" target="blank">PCBWAY</a>** por apoyar este proyecto. ¡Sin su ayuda, no habríamos llegado tan lejos en nuestro desarrollo!, sin dudas son los mejores en el mercado de PCB
